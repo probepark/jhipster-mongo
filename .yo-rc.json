@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.probeio.jhipster",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.9.0",
+    "applicationType": "monolith",
+    "baseName": "jhipster",
+    "packageName": "com.probeio.jhipster",
+    "packageFolder": "com/probeio/jhipster",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "OTA5ZmQxMWRkZDQ3ZGJlYjlmMTY5ZTFkNWRlNzYyZjMxYTM1YWYwMmNkOWYwOTAyZWRlNWQyZGJkNGJhYzBhZmI3ODI3OGRiNTc0MDJjOGNkOGUwYzNlNTQ3Y2JjZGM5YjE4YTNmN2Y0MTViNjVmNmZjMTk0NTI5NTUyMDE0MWY=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "react",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1590723315887,
+    "testFrameworks": ["protractor"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en", "ko"],
+    "blueprints": []
+  }
+}
